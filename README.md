@@ -12,6 +12,8 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Galaxkkkk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
+  <div class="tenor-gif-embed" data-postid="5431123672270609666" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/zelda-link-nod-nodding-agree-gif-5431123672270609666">Zelda Link Sticker</a>from <a href="https://tenor.com/search/zelda-stickers">Zelda Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<br>
 <div> 
   <a href="https://www.youtube.com/@galaxkk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/galaxkkkk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
