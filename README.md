@@ -12,7 +12,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Galaxkkkk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <br>
-  <img src="https://tenor.com/gDmLB5AfRWE.gif">
+  
 <div> 
   <a href="https://www.youtube.com/@galaxkk" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/galaxkkkk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
